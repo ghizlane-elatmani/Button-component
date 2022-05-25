@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Ubuntu+Mono&display=swap");
+
+.container {
+  max-width: 1100px;
+  margin-inline: auto;
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #4f4f4f;
+  font-family: "Poppins", sans-serif;
+  padding-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.wrapper {
+  margin-bottom: 4rem;
+  font-family: "Ubuntu Mono", monospace;
+}
+
+.card {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1rem;
+  border: 1px solid #e3e3e3;
+  border-radius: 12px;
+  padding: 1rem 2rem;
+  margin-bottom: 2rem;
+}
+
+.card-icon {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+}
