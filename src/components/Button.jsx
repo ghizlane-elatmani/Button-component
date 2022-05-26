@@ -16,7 +16,7 @@ function Button({
   }`;
 
   if (disabled) {
-    className = "default disabled md" + " " + variant;
+    className = `default disabled md ${variant}`;
   }
 
   return (
