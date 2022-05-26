@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{Button Component}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://button-component-ge.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ghizlane-elatmani/Button-component">
       Solution
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![My Image](/src/img/button-component.png)
 
-- You can see my demo here: "https://"
+- You can see my demo here: "https://button-component-ge.netlify.app/"
 - With this project, I learn how to use efficiently component with React.
 - I hope to make more beautifuls websites and become an expert in front-end developmemt :)
 
@@ -58,10 +58,15 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
-- [x] User story: I can see a page following the given design
-- [x] User story: I can see a page on mobile following the given design
-- [x] User story: I can go to certain locations by selecting links in navigation or footer
-- [x] User story (optional): Surprise me with mobile navigation.
+- [x] User story: I can see different button types: default, outline and text
+- [x] User story: I can choose to disable box-shadow
+- [x] User story: I can choose to disable the button
+- [x] User story: I can choose to have an icon on the left or right (Use Google Icon and at least 5 variants)
+- [x] User story: I can have different button sizes
+- [x] User story: I can have different colors
+- [x] User story: When I hover or focus, I can see visual indicators
+- [x] User story: I can still access all button attributes
+- [x] User story (optional): Show button in a similar way like the design or use Storybook. Otherwise, showing the button in multiple states is enough
 
 ## How To Use
 
@@ -71,7 +76,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/ghizlane-elatmani/Button-component
 
 # Install dependencies
 $ npm install
@@ -88,5 +93,5 @@ $ npm start
 
 ## Contact
 
-- Website [button-component](https://)
+- Website [button-component](https://button-component-ge.netlify.app/)
 - GitHub [@ghizlane-elatmani](https://github.com/ghizlane-elatmani)
